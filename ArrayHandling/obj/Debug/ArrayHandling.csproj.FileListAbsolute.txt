@@ -1,0 +1,36 @@
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe.config
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.pdb
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Form1.resources
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Properties.Resources.resources
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csproj.GenerateResource.Cache
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.exe
+c:\users\bezpr\documents\visual studio 2017\Projects\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.pdb
+c:\Users\bezpr\Documents\Visual Studio 2017\Projects\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csprojResolveAssemblyReference.cache
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe.config
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.pdb
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csprojResolveAssemblyReference.cache
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Form1.resources
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Properties.Resources.resources
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csproj.GenerateResource.Cache
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.exe
+C:\Users\fidge\Desktop\ucheba\Программирование\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.pdb
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe.config
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.exe
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.pdb
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.pdb
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csprojResolveAssemblyReference.cache
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Form1.resources
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Properties.Resources.resources
+C:\Users\Helena\Desktop\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csproj.GenerateResource.Cache
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe.config
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.exe
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.pdb
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.exe
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\bin\Debug\ArrayHandling.pdb
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csprojResolveAssemblyReference.cache
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Form1.resources
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.Properties.Resources.resources
+G:\Программирование\Cдать\доработать\ArrayHandling\ArrayHandling\obj\Debug\ArrayHandling.csproj.GenerateResource.Cache
